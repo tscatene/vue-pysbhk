@@ -1,6 +1,10 @@
 <template>
-  <div class="hello-world">
-    <h2 class="comment-status">{{ msg }}</h2>
+  <div class="hello-world container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <h3 class="text-right">{{ msg }}</h3>
+      </div>
+    </div>
   </div>
 </template>
 

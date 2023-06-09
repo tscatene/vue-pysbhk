@@ -1,5 +1,5 @@
 <template>
-  <div class="hello-world container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-12">
         <h3 class="text-right">{{ msg }}</h3>
